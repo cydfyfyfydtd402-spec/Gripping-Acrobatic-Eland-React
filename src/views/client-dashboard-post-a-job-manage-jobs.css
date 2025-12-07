@@ -1,0 +1,21 @@
+.client-dashboard-post-a-job-manage-jobs-container1 {
+  width: 100%;
+  display: block;
+  min-height: 100vh;
+}
+ 
+.client-dashboard-post-a-job-manage-jobs-container2 {
+  display: none;
+}
+ 
+.client-dashboard-post-a-job-manage-jobs-container3 {
+  display: contents;
+}
+ 
+.client-dashboard-post-a-job-manage-jobs-container4 {
+  display: none;
+}
+ 
+.client-dashboard-post-a-job-manage-jobs-container5 {
+  display: contents;
+}

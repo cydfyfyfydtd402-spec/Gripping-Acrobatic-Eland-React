@@ -1,0 +1,46 @@
+.home-container1 {
+  width: 100%;
+  display: block;
+  min-height: 100vh;
+}
+ 
+.home-container2 {
+  display: none;
+}
+ 
+.home-container3 {
+  display: contents;
+}
+ 
+.home-hero-title-primary {
+  color: var(--color-on-surface);
+  display: block;
+}
+ 
+.home-hero-title-accent {
+  display: block;
+  background: linear-gradient(
+      135deg,
+      var(--color-primary),
+      var(--color-accent)
+    );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+ 
+.home-container4 {
+  display: none;
+}
+ 
+.home-container5 {
+  display: contents;
+}
+ 
+.home-container6 {
+  display: none;
+}
+ 
+.home-container7 {
+  display: contents;
+}

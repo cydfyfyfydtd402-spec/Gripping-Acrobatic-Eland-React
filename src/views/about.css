@@ -1,0 +1,29 @@
+.about-container1 {
+  width: 100%;
+  display: block;
+  min-height: 100vh;
+}
+ 
+.about-container2 {
+  display: none;
+}
+ 
+.about-container3 {
+  display: contents;
+}
+ 
+.about-container4 {
+  display: none;
+}
+ 
+.about-container5 {
+  display: contents;
+}
+ 
+.about-container6 {
+  display: none;
+}
+ 
+.about-container7 {
+  display: contents;
+}

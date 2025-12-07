@@ -1,0 +1,38 @@
+.cleaner-dashboard-container1 {
+  width: 100%;
+  display: block;
+  min-height: 100vh;
+}
+ 
+.cleaner-dashboard-container2 {
+  display: none;
+}
+ 
+.cleaner-dashboard-container3 {
+  display: contents;
+}
+ 
+.cleaner-dashboard-availability-calendar-toggle-slider {
+  width: 48px;
+  height: 24px;
+  position: relative;
+  background: var(--color-border);
+  transition: background 0.3s ease;
+  border-radius: var(--border-radius-full);
+}
+ 
+.cleaner-dashboard-container4 {
+  display: none;
+}
+ 
+.cleaner-dashboard-container5 {
+  display: contents;
+}
+ 
+.cleaner-dashboard-container6 {
+  display: none;
+}
+ 
+.cleaner-dashboard-container7 {
+  display: contents;
+}
